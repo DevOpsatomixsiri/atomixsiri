@@ -4,8 +4,8 @@
 
 <!-- Profile Views & Followers -->
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=atomixsiri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/DevOpsatom?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://komarev.com/ghpvc/?username=DevOpsatomixsiri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/DevOpsatomixsiri?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 <img  align="right" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
@@ -27,11 +27,11 @@
 
 ## 📊 **GitHub Stats**  
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=atomixsiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=DevOpsatomixsiri&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=atomixsiri&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DevOpsatomixsiri&theme=tokyonight" alt="GitHub Streak Stats" />
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=atomixsiri&layout=compact&theme=tokyonight" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DevOpsatomixsiri&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
 ---
@@ -40,14 +40,14 @@
 
 ## 🎯 **My GitHub Contributions**  
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=atomixsiri&theme=react-dark&hide_border=true&area=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DevOpsatomixsiri&theme=react-dark&hide_border=true&area=true" />
 </p>
 
 ---
 
 ## 🏆 **GitHub Achievements**  
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=riteshxcoder&theme=tokyonight&margin-w=10" />
+  <img src="https://github-profile-trophy.vercel.app/?username=DevOpsatomixsiri&theme=tokyonight&margin-w=10" />
 </p>
 
 ---
