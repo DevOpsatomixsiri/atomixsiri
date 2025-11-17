@@ -1,11 +1,11 @@
 <!-- Heading -->
 <h1 align="center">Hey 👋, I'm 𝐒ͱ꧊᱂ᴇᴇ // श्रीं 🌷 </h1>
-<h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from [Your Country]!</h3>
+<h3 align="center">🚀 A Passionate Developer & Tech Enthusiast from India 🇮🇳!</h3>
 
 <!-- Profile Views & Followers -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=atomixsiri&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/atomixsiri?label=Followers&style=social" alt="GitHub Followers" />
+  <img src="https://img.shields.io/github/followers/DevOpsatom?label=Followers&style=social" alt="GitHub Followers" />
 </p>
 <img  align="right" width="400" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e"/>
 
